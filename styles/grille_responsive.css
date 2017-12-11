@@ -1,14 +1,3 @@
-div .case {
-    width: 20vw;
-    min-width: 180px;
-    height: 300px;
-    float: left;
-    border: solid black;
-    background-color: limegreen;
-    text-align: center;
-    font-weight: bold;
-    font-size: 120px;
-    border-radius: 20px;
-    line-height: 300pxpx;
-    margin: 1vw;
+p {
+    background-color: blue;
 }
