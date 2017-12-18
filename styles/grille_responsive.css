@@ -5,3 +5,7 @@ p {
     border-radius: 10px;
     border: 10px solid black;
 }
+
+h2 {
+    color: red;
+}
